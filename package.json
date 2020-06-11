@@ -1,7 +1,7 @@
 {
-  "name": "react-native-drawer",
-  "version": "2.5.1",
-  "description": "React Native Drawer",
+  "name": "react-native-drawer-clear",
+  "version": "1.0.1",
+  "description": "React Native Drawer without componentWillMount and componentDidMount error",
   "main": "index.js",
   "scripts": {},
   "repository": {
